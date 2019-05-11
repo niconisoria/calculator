@@ -32,7 +32,7 @@ body{
     grid-template-areas:
     "display"
     "buttons";
-    grid-template-rows: minmax(0, 1fr) minmax(0, 4fr);
+    grid-template-rows: minmax(0, 1fr) minmax(0, 550px);
     grid-template-columns: minmax(0, 1fr);
 }
 
